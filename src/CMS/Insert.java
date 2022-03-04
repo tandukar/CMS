@@ -22,8 +22,8 @@ public class Insert {
             //create the statement
             PreparedStatement statement = connect.prepareStatement(admin_query);
 
-            statement.setString(1, "Pragyo");
-            statement.setString(2, "Tadukar");
+            statement.setString(1, "Willem");
+            statement.setString(2, "Dafoe");
             statement.setString(3, "1");
             statement.executeUpdate();
 
