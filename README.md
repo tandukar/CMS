@@ -1,5 +1,5 @@
 # CMS
-This is my first java project.
+java coursework.
 
 Run the Main.java to start the program.
 Choose the admin to begin with.
