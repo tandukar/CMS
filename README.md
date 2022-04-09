@@ -1,4 +1,6 @@
-# CMS
+# CMS  
+Course Management System
+
 java coursework.
 
 Run the Main.java to start the program.
